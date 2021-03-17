@@ -4,8 +4,8 @@ import numpy as np
 
 
 # This code is different for each deployed app.
-CURRENT_THEME = "light"
-IS_DARK_THEME = False
+CURRENT_THEME = "blue"
+IS_DARK_THEME = True
 EXPANDER_TEXT = """
     This is a custom theme. You can enable it by copying the following code
     to `.streamlit/config.toml`:
