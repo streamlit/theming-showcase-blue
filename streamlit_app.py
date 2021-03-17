@@ -12,10 +12,10 @@ EXPANDER_TEXT = """
 
     ```python
     [theme]
-    primaryColor = '#E694FF'
-    backgroundColor = '#00172B'
-    secondaryBackgroundColor = '#0083B8'
-    textColor = '#C6CDD4'
+    primaryColor = "#E694FF"
+    backgroundColor = "#00172B"
+    secondaryBackgroundColor = "#0083B8"
+    textColor = "#C6CDD4"
     font = "sans-serif"
     ```
     """
